@@ -1,0 +1,9 @@
+{
+  "name": "AW Monster Hunter Report",
+  "short_name": "Hunter Report",
+ 
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#333333"
+}
