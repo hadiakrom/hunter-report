@@ -1,5 +1,6 @@
 body {
         user-scalable:none;
+        overscroll-behavior:none;
         top:0px;
         left:0px;
 } 
